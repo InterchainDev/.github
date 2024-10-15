@@ -2,7 +2,7 @@
 
 *Providing cool TOOLS for the **Cosmos Interchain** ecosystem.*
 
-[![Cosmos Badge](https://img.shields.io/badge/Cosmos-Interchain-blueviolet?style=for-the-badge&logo=cosmos&logoColor=white)](https://cosmos.network/) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](mailto:contact@interchaindevs.com)
+[![Cosmos Badge](https://img.shields.io/badge/Cosmos-Interchain-blueviolet?style=for-the-badge&logo=cosmos&logoColor=white)](https://cosmos.network/) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](mailto:contact@InterchainDev.com)
 
 ---
 
@@ -16,11 +16,11 @@
 
 ---
 
-### [🌠 **Cosmos API Endpoints**](https://github.com/InterchainDevs/cosmos-api-endpoints)
+### [🌠 **Cosmos API Endpoints**](https://github.com/InterchainDev/cosmos-api-endpoints)
 
 > *Build Cosmos-SDK chain endpoints compatible with CoinMarketCap & Coingecko.*
 
-[![GitHub repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/InterchainDevs/cosmos-api-endpoints)
+[![GitHub repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/InterchainDev/cosmos-api-endpoints)
 
 ---
 
@@ -56,14 +56,14 @@
 
 Interested in collaborating or learning more about our projects? Feel free to reach out!
 
-[![Twitter](https://img.shields.io/badge/Twitter-@InterchainDevs-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/InterchainDevs) [![Email](https://img.shields.io/badge/Email-contact%40interchaindevs.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@interchaindevs.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@InterchainDev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/InterchainDev) [![Email](https://img.shields.io/badge/Email-contact%40InterchainDev.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@InterchainDev.com)
 
 ---
 
 ## 🌟 **Let's Build the Future of the Interchain Together!**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/InterchainDevs/brand/main/interchaindevs-banner.png" alt="InterchainDevs Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/InterchainDev/brand/main/InterchainDev-banner.png" alt="InterchainDev Banner" width="600"/>
 </div>
 
 ---
