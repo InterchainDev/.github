@@ -5,9 +5,8 @@
 # 🌌 InterchainDevs 🚀 
 
 ## Unlocking the Potential of the Cosmos Interchain Ecosystem
-InterchainDevs is a team of seasoned blockchain developers dedicated to building innovative tools for the interchain ecosystem. Our expertise spans the entire development lifecycle, from launching and maintaining CosmosSDK blockchains to crafting CosmWasm smart contracts and designing intuitive front-end tools.
+InterchainDevs is a team of seasoned blockchain developers dedicated to building innovative tools for the interchain ecosystem. Our expertise spans the entire development lifecycle, from launching and maintaining Cosmos SDK blockchains to crafting CosmWasm smart contracts and designing intuitive front-end tools.
 
-### Our Services:
 We provide support to exsisting and new projects, covering a range of essential services, including:
 * Seed servers
 * RPC-servers 
@@ -31,39 +30,38 @@ We provide support to exsisting and new projects, covering a range of essential 
 ## 📂 Public Repositories
 
 #### 📡 Chain Explorer
-A 100% client-side Cosmos-SDK chain explorer.
+A 100% client-side Cosmos SDK chain explorer.
 
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/InterchainDevs/chain-explorer)
-[![Chain Explorer](https://img.shields.io/badge/Visit-Explorer-orange?style=flat-square)](https://chain-explorer.cosmos-pay.com/)
 
 #### 🌠 Cosmos API Endpoints
-Build Cosmos-SDK chain endpoints compatible with CoinMarketCap & Coingecko.
+Build Cosmos SDK chain endpoints compatible with CoinMarketCap & Coingecko.
 
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/InterchainDevs/cosmos-api-endpoints)
 
 #### 💰 Cosmos Pay
-Enable crypto eCommerce payments for Prestashop & WooCommerce (WordPress).
+Enable crypto e-Commerce payments for Prestashop & WooCommerce (WordPress).
 
 [![GitHub repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/BitCannaGlobal/cosmospay-api/blob/main/README.md)
-[![Website](https://img.shields.io/badge/Visit-cosmos--pay.com-orange?style=flat-square)](https://www.cosmos-pay.com)
+[![Website](https://img.shields.io/badge/Visit-Cosmos_Pay_Docs-orange?style=flat-square)](https://docs.cosmos-pay.com)
 
 ## 🔐 Private Repositories *(For now...)*
 
 #### 🚀 Cosm-Group
-UI for the GROUP module of Cosmos-SDK.
+UI for the GROUP module of Cosmos SDK.
 
 #### 🔧 Cosmos Widget
 Cosmos crypto payments taken to the next level of customization.
 
 #### 🎮 UnitOS
-Unity-3D package to connect Cosmos-SDK blockchains to your games!
+Unity-3D package to connect Cosmos SDK blockchains to your games!
 
 ## 🤝 Connect with Us!
 
 Interested in collaborating or learning more about our projects? Feel free to reach out!
 
-[![Email](https://img.shields.io/badge/Email-contact%40InterchainDev.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@InterchainDev.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@InterchainDevs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/InterchainDevs)
+[![Email](https://img.shields.io/badge/Email-contact%40InterchainDev.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:InterchainDevs@gmail.com)
+[![X](https://img.shields.io/badge/Twitter-@InterchainDevs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/InterchainDevs)
 
 ## License
 
