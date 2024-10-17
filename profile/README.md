@@ -60,7 +60,7 @@ Unity-3D package to connect Cosmos SDK blockchains to your games!
 
 Interested in collaborating or learning more about our projects? Feel free to reach out!
 
-[![Email](https://img.shields.io/badge/Email-contact%40InterchainDev.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:InterchainDevs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact%40InterchainDevs.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@interchaindevs.dev)
 [![X](https://img.shields.io/badge/Twitter-@InterchainDevs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/InterchainDevs)
 
 ## License
