@@ -19,7 +19,7 @@ We provide support to exsisting and new projects, covering a range of essential 
 * Building testnets
 
 <div align="center">
-  <img src="https://github.com/InterchainDevs/.github/blob/58709e392be15f2043783d26817e06ed83ba8955/interchaindevs-banner.png" alt="InterchainDevs Banner" width="auto"/>
+  <img src="https://raw.githubusercontent.com/InterchainDevs/.github/58709e392be15f2043783d26817e06ed83ba8955/interchaindevs-banner.png" alt="InterchainDevs Banner" width="auto"/>
 </div>
 
 ## Languages and tools we use:
